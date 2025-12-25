@@ -3,7 +3,7 @@ status_code = 200
 if status_code == 200:
     print ("success: Data received")
 elif status_code == 404:
-    print ("error: Recourse not found")
+    print ("Error: ReSourse not found")
 else:
-    print ("unknown error occurred")
+    print ("Unknown error occurred")
 
