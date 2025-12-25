@@ -1,9 +1,9 @@
 status_code = 200
 
 if status_code == 200:
-    print ("success: Data received")
+    print ("Success: Data received")
 elif status_code == 404:
-    print ("Error: ReSourse not found")
+    print ("Error: Resourse not found")
 else:
     print ("Unknown error occurred")
 
